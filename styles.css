@@ -1,0 +1,18 @@
+.conatiner{
+    border: 5px red;
+    padding: 10px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+.paragraph{
+    background-color: grey;
+    padding: 10px;
+    margin: 10px;
+    border: 15px orange;
+}
+
+
+:start
+
+// 
